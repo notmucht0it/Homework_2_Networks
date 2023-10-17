@@ -1,0 +1,5 @@
+From: "Hamed" <test@uwm.edu>
+To: "hamed" <whoever@something.something>
+Subject: testing
+
+Compsci520 is a cool course!!

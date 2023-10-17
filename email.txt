@@ -1,5 +1,6 @@
 From: "Hamed" <test@uwm.edu>
-To: "Kev" <kev@getnada.com>
+To: "Paul" <paul@getmule.com>
 Subject: testing
 
-Compsci520 is a cool course!!
+Compsci520 is a cool course!! I also want to test some
+basic new line features. Does this work properly?
